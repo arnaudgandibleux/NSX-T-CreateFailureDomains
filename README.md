@@ -24,7 +24,7 @@ $ python3 createCred.py
 ```
 ### Configure failure domains
 ```sh
-$ python3 configureFailureDomains.py
+$ python3 configureFailureDomains.py -m [IP/FQDN of NSX-T manager]
 ```
 
 ### Options
