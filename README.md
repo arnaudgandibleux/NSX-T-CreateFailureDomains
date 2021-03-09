@@ -22,6 +22,8 @@ Open a terminal and run
 ```sh
 $ python3 createCred.py
 ```
+ref: https://www.geeksforgeeks.org/create-a-credential-file-using-python/
+
 ### Configure failure domains
 ```sh
 $ python3 configureFailureDomains.py -m [IP/FQDN of NSX-T manager]
